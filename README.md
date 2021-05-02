@@ -12,7 +12,6 @@ The main opportunities does our project provide:
 
 # **Implementation**
   * Graphical user interface: **JavaFX**
-  * Scope of the project: **85 day**
   
 
 # **Built with**

@@ -1,7 +1,4 @@
-# **Goal of the Project**
-Due to the **pandemic**, university students switched to distance learning and this mainly affected freshmen who did not see the walls of the university and do not know the learning environment.
-The our main goal is to help students **understand** the university environment and to **quickly** master the environment.
-
+# **About Project**
 The main opportunities does our project provide:
   * Teacher ratings - in the open access will be a rating of teachers for understanding the situation.
   * Retake analysis - analysis of student retakes and understanding the dangers of lessons.

@@ -1,5 +1,9 @@
 # Data loading process
 
+* For import dataset, We use Dbeaver for importing and connect with our Oracle and via JDBC.
+* Because we have massive data .csv and for good result we choose Dbeaver.
+* Dbeaver - is a SQL client software application and a database administration tool. For relational databases it uses the JDBC application programming interface to interact with databases via a JDBC driver.
+
 
 
 
